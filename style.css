@@ -1,0 +1,65 @@
+h2 {
+ 
+  color: #000000;
+}
+
+
+h2 {
+text-decoration:underline;
+}
+body {
+	color: #50c5b7;
+	font-size: 20px;
+	font-family: Arial, sans-serif;
+	font-weight: bold;
+	background-image: url(image/montagne.jpg);
+	background-size: cover;
+}
+a {
+ color: black;
+ text-decoration: underline;
+}
+.top-description {
+	padding: 5px;
+	border-radius: 20px;
+	color: #009ddc;
+}  
+.image {
+	padding: 5px;
+	border-radius: 20px;
+	border: #7c7c7c; 
+	text-align: center;
+}
+.personality {
+	padding: 5px;
+	border-radius: 20px;
+	color: #009ddc;
+}
+
+.About-me {
+	padding: 5px;
+	border-radius: 20px;
+	color: #009ddc;
+}
+.img-circle {
+	border-radius: 50%;
+
+}
+.contact {
+	padding: 5px;
+	border-radius: 20px;
+	border: 2px #7c7c7c;
+}
+ol {
+	display: flex;
+}
+li {
+	margin-right: 35px;
+	color: black;
+}
+p {
+	color: black;
+}
+#facebook {
+	color: blue;
+}
